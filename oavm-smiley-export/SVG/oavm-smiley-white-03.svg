@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Vrstva 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.87 36.85">
+  <g id="c" data-name="Vrstva 1">
+    <g>
+      <path d="M28.35,15.59L0,26.22v-4.25l24.09-8.86L0,4.25V0l28.35,10.63v4.96Z" style="fill: #fff;"/>
+      <path d="M42.52,10.63L70.87,0v4.25l-24.09,8.86,24.09,8.86v4.25l-28.35-10.63v-4.96Z" style="fill: #fff;"/>
+      <polygon points="49.61 27.49 49.61 31.64 39.69 35.29 35.43 36.85 31.17 35.29 21.26 31.64 21.26 27.5 35.43 32.81 49.61 27.49" style="fill: #fff;"/>
+    </g>
+  </g>
+</svg>
